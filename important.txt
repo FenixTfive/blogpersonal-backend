@@ -1,0 +1,12 @@
+dependencias necesaria y su descripcion 
+
+bcrypt-nodejs -> es para encriptar contaseñas 
+body-parser    -> es para pasar informacion en el body al usar  peticiones http con express
+/--
+connect-multiparty -> es el middleware para subir imagenes al servidor
+/////////////
+express    -> para crear el sistema de rutas (express --save)
+jwt-simple -> para decodificar tokens //es un generador de encriptacion extra
+moment     -> es para usar fechas y horas (moment --save)
+////////////
+mongoose   -> es para hacer las peticiones a la base de datos 
